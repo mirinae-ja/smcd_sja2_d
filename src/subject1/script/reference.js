@@ -1,0 +1,51 @@
+const reference = [
+  {
+    author: "고은빈 기자",
+    title: "LOCAL세계",
+    year: "2018",
+    sourceTitle: "여름철 몸살 한강공원, 쓰레기·소음·무질서 집중 대책 가동",
+    link: "https://localsegye.co.kr/news/view/1065608695987366",
+  },
+  {
+    author: "이시라 기자",
+    title: "경북매일",
+    year: "2023",
+    sourceTitle: "쓰레기 무단투기 단속 CCTV ‘무용지물’",
+    link: "https://www.kbmaeil.com/news/articleView.html?idxno=950016",
+  },
+  {
+    author: "신경민 기자",
+    title: "mbc뉴스",
+    year: "2023",
+    sourceTitle: "[와글와글] 휴게소에 쓰레기 무단 투기‥'심하다, 심해'",
+    link: "https://imnews.imbc.com/replay/2023/nwtoday/article/6472761_36207.html",
+  },
+  {
+    author: "홍효민 기자",
+    title: "머니투데이",
+    year: "2023",
+    sourceTitle: "'무면허 오토바이' 고등학생, 단속 중이던 경찰관 치고 도주",
+    link: "https://news.mt.co.kr/mtview.php?no=2023041921594448161",
+  },
+  {
+    author: "홍효민 기자",
+    title: "머니투데이",
+    year: "2023",
+    sourceTitle: "'왜 끼어들어' 車유리 박살…무면허 오토바이, 또 그 사람이었다",
+    link: "https://news.mt.co.kr/mtview.php?no=2023021306403720264",
+  },
+  {
+    author: "한무선 기자",
+    title: "연합뉴스",
+    year: "2023",
+    sourceTitle: "무면허 오토바이 운전으로 사망사고 낸 20대 징역 2년 6개월",
+    link: "https://www.yna.co.kr/view/AKR20230504116600053",
+  },
+  {
+    author: "장선욱 기자",
+    title: "국민일보",
+    year: "2023",
+    sourceTitle: "무면허 중2 심야 오토바이 질주, 가로등 충돌 사망",
+    link: "https://news.kmib.co.kr/article/view.asp?arcid=0018194574&code=61121111&stg=ws_real",
+  },
+];
